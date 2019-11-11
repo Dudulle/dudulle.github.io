@@ -9,6 +9,10 @@ html, body {
     margin-bottom: 12px;
 }
 
+.spinner-border {
+    color: rgb(5, 39, 103);
+}
+
 a, .btn-link {
     color: #0366d6;
 }
@@ -23,6 +27,7 @@ app {
     position: relative;
     display: flex;
     flex-direction: column;
+    height: 100vh;
 }
 
 .top-row {
