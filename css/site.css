@@ -9,32 +9,6 @@ html, body {
     margin-bottom: 12px;
 }
 
-.list {
-    list-style: none; /* Remove default bullets */
-}
-
-.list li::before {
-    content: "\2022"; /* Add content: \2022 is the CSS Code/unicode for a bullet */
-    color: blue; /* Change the color */
-    display: inline-block; /* Needed to add space between the bullet and the text */
-    width: 1em; /* Also needed for space (tweak if needed) */
-    margin-left: -1em; /* Also needed for space (tweak if needed) */
-    float: left;
-}
-
-.list ul {
-    list-style: none; /* Remove default bullets */
-}
-
-.list ul li::before {
-    content: "\25E6"; /* Add content: \25E6 is the CSS Code/unicode for a white bullet */
-    color: yellow; /* Change the color */
-    display: inline-block; /* Needed to add space between the bullet and the text */
-    width: 1em; /* Also needed for space (tweak if needed) */
-    margin-left: -1em; /* Also needed for space (tweak if needed) */
-    float: left;
-}
-
 a, .btn-link {
     color: #0366d6;
 }
