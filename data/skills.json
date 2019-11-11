@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Programming Languages",
+    "skills": [
+      "C#, C++/CLI, Visual Basic",
+      "C++, C, CMake, assembly",
+      "T-SQL",
+      "Java"
+    ]
+  },
+  {
+    "name": "Cloud Environments",
+    "skills": [
+      "Microsoft Azure"
+    ]
+  },
+  {
+    "name": "Frameworks",
+    "skills": [
+      ".Net, .Net Core",
+      "Asp.Net (Core)",
+      "Entity Framework (Core)"
+    ]
+  },
+  {
+    "name": "UI",
+    "skills": [
+      "WPF, XAML, WinForms",
+      "MFC",
+      "Blazor",
+      "HTML, CSS, JavaScript"
+    ]
+  },
+  {
+    "name": "Patterns",
+    "skills": [
+      "MVVM, MVC",
+      "CAB"
+    ]
+  },
+  {
+    "name": "3D / Computer Vision",
+    "skills": [
+      "OpenCV",
+      "OpenGL",
+      "PCL"
+    ]
+  },
+  {
+    "name": "Source Control",
+    "skills": [
+      "Git",
+      "Team Foundation Server"
+    ]
+  },
+  {
+    "name": "3D Software",
+    "skills": [
+      "Autodesk Maya",
+      "Unity"
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Microsoft\u00AE Certified Professional",
+    "issuer": "Microsoft",
+    "reference": "E921-4904",
+    "issueDate": "2012-04-16",
+    "url": "/data/certifications/ck_mcp.pdf"
+  },
+  {
+    "name": "Microsoft\u00AE Certified Professional Developer: Windows Developer 4",
+    "issuer": "Microsoft",
+    "reference": "D504-2490",
+    "issueDate": "2011-09-30",
+    "url": "/data/certifications/ck_mcpd_wd4.pdf"
+  },
+  {
+    "name": "Microsoft\u00AE Certified Technology Specialist: .NET Framework 4, Service Communication Applications",
+    "issuer": "Microsoft",
+    "reference": "D502-8978",
+    "issueDate": "2011-09-29",
+    "url": "/data/certifications/ck_mcts_sca.pdf"
+  },
+  {
+    "name": "Microsoft\u00AE Certified Technology Specialist: .NET Framework 4, Data Access",
+    "issuer": "Microsoft",
+    "reference": "D490-9791",
+    "issueDate": "2011-09-16",
+    "url": "/data/certifications/ck_mcts_da.pdf"
+  },
+  {
+    "name": "Microsoft\u00AE Certified Technology Specialist: .NET Framework 4, Windows Applications",
+    "issuer": "Microsoft",
+    "reference": "D461-9324",
+    "issueDate": "2011-09-02",
+    "url": "/data/certifications/ck_mcts_wa.pdf"
+  }
+]

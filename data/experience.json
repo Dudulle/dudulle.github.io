@@ -1,0 +1,33 @@
+[
+  {
+    "startDate": "2018-03-26",
+    "endDate": "2019-07-31",
+    "title": "Senior Software Engineer",
+    "company": {
+      "name": "YDT",
+      "location": "Shanghai, China"
+    },
+    "description": "Designed and developed desktop applications.\nDeveloped multiple RESTful APIs using microservices\nMigrated .Net applications to .Net Core.\nDesigned and developed libraries to analyse and process images and 3D data."
+  },
+  {
+    "startDate": "2015-03-12",
+    "endDate": "2017-12-31",
+    "title": "Software Engineer",
+    "company": {
+      "name": "TC2 Labs",
+      "location": "APEX, North Carolina",
+      "url": "https://www.tc2.com/"
+    },
+    "description": "Developed multiple RESTful and WebSocket APIs.\nManaged, redesigned, and reduced cost of cloud infrastructure.\nDeveloped and maintained desktop applications."
+  },
+  {
+    "startDate": "2012-03-01",
+    "endDate": "2015-03-11",
+    "title": "Software Developer",
+    "company": {
+      "name": "DNA Interactif Fashion",
+      "location": "Kortrijk, Belgium"
+    },
+    "description": "Designed, developed, and maintained various desktop applications.\nDesigned and managed cloud infrastructure.\nDeveloped multiple APIs using REST, TCP sockets, and WCF.\nDeveloped a 3D rendering engine.\nDeveloped 3D data analysis and physics simulation libraries.\nDeveloped an online 3D virtual shop.\n3D Modeling."
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "startDate": "2011-04-01",
+    "endDate": "2011-08-31",
+    "field": "Developer .Net 4.0",
+    "institution": {
+      "name": "Techno.bel",
+      "location": "Loyers, Belgium"
+    },
+    "displayMonth": true
+  },
+  {
+    "startDate": "2008-09-01",
+    "endDate": "2009-06-30",
+    "field": "Medicine / Psychology",
+    "institution": {
+      "name": "Universit\u00E9 Catholique de Louvain",
+      "location": "Belgium"
+    }
+  },
+  {
+    "startDate": "2006-09-01",
+    "endDate": "2008-06-30",
+    "field": "Computer Technician",
+    "institution": {
+      "name": "CEPES Jodoigne",
+      "location": "Belgium"
+    }
+  }
+]
