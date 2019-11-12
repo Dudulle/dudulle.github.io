@@ -217,3 +217,17 @@ app {
         display: block;
     }
 }
+
+@media print {
+    a {
+        color: inherit;
+    }
+
+        a:link {
+            text-decoration: inherit;
+        }
+
+        a:visited {
+            text-decoration: inherit;
+        }
+}
