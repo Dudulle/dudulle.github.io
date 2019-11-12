@@ -2,10 +2,9 @@
   {
     "name": "Programming Languages",
     "skills": [
-      "C#, C++/CLI, Visual Basic",
-      "C++, C, CMake, assembly",
-      "T-SQL",
-      "Java"
+      "<b>C#</b>, <b>C++/CLI</b>, Java, <i>Visual Basic</i>",
+      "<b>C++</b>, C, CMake, <i>assembly</i>",
+      "T-SQL"
     ]
   },
   {
@@ -25,17 +24,15 @@
   {
     "name": "UI",
     "skills": [
-      "WPF, XAML, WinForms",
+      "<b>WPF</b>, XAML, WinForms",
       "MFC",
-      "Blazor",
-      "HTML, CSS, JavaScript"
+      "Blazor, HTML, CSS, JavaScript"
     ]
   },
   {
     "name": "Patterns",
     "skills": [
-      "MVVM, MVC",
-      "CAB"
+      "MVVM, MVC, CAB"
     ]
   },
   {
