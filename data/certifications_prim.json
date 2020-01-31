@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Microsoft\u00AE Certified Professional",
+    "issuer": "Microsoft",
+    "reference": "E921-4904",
+    "issueDate": "2012-04-16",
+    "url": "/data/certifications/ck_mcp.pdf"
+  },
+  {
+    "name": "Microsoft\u00AE Certified Professional Developer: Windows Developer 4",
+    "shortName": "MCPD: Windows Developer 4",
+    "issuer": "Microsoft",
+    "reference": "D504-2490",
+    "issueDate": "2011-09-30",
+    "url": "/data/certifications/ck_mcpd_wd4.pdf"
+  }
+]

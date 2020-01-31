@@ -39,6 +39,16 @@ html, body {
         margin-bottom: 6px;
     }
 
+    .pad-card-children .card-deck-view {
+        padding-right: 12px;
+        padding-left: 12px;
+    }
+
+        .pad-card-children .card-deck-view .card:not(.no-margin) {
+            margin-right: 3px;
+            margin-left: 3px;
+        }
+
 a, .btn-link {
     color: #0366d6;
 }

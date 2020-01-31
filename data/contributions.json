@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Prism",
+    "url": "https://github.com/PrismLibrary/Prism",
+    "company": {
+      "name": "PrismLibrary",
+      "url": "https://prismlibrary.com/"
+    },
+    "contributions": [
+      {
+        "description": "Fixed type registration bug with DryIoc container.",
+        "url": "https://github.com/PrismLibrary/Prism/pull/1463"
+      }
+    ]
+  },
+  {
+    "name": "Open GApps AOSP build",
+    "url": "https://github.com/opengapps/aosp_build",
+    "company": {
+      "name": "Open GApps",
+      "url": "https://opengapps.org/"
+    },
+    "contributions": [
+      {
+        "description": "Added package selection based on DPI.",
+        "url": "https://github.com/opengapps/aosp_build/pull/25"
+      },
+      {
+        "description": "Improved API level selection.",
+        "url": "https://github.com/opengapps/aosp_build/pull/69"
+      },
+      {
+        "description": "Minor fixes and improvements.",
+        "url": "https://github.com/opengapps/aosp_build/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3ADudulle"
+      }
+    ]
+  },
+  {
+    "name": "Android Kernel",
+    "url": "https://github.com/sonyxperiadev/kernel",
+    "company": {
+      "name": "Sony Open Devices Project",
+      "url": "https://developer.sony.com/develop/open-devices/"
+    },
+    "contributions": [
+      {
+        "description": "Fixed device-specific issues with battery, screen, and reboots.",
+        "url": "https://github.com/sonyxperiadev/kernel/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3ADudulle"
+      },
+      {
+        "description": "Minor improvements.",
+        "url": "https://github.com/sonyxperiadev/kernel/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3ADudulle"
+      }
+    ]
+  }
+]
